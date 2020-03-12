@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<!--  -->
+Clone the repo and just run npm install in the terminal to download all the packages needed.
 
 ## Available Scripts
 
